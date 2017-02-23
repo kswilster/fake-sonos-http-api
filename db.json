@@ -1,0 +1,640 @@
+{
+  "lockvolumes": {
+    "status": "success"
+  },
+  "volume": {
+    "status": "success"
+  },
+  "playTrack": {
+    "_comment": "TODO: replace this respons with appropriate playTrack response",
+    "firsttracknumberenqueued": "1",
+    "numtracksadded": "1",
+    "newqueuelength": "13"
+  },
+  "nextTrack": {
+    "firsttracknumberenqueued": "2",
+    "numtracksadded": "1",
+    "newqueuelength": "13"
+  },
+  "queueTrack": {
+    "_comment": "not sure if track number should be 12 or 13, might have an off-by-one error here",
+    "firsttracknumberenqueued": "13",
+    "numtracksadded": "1",
+    "newqueuelength": "13"
+  },
+  "zones": [
+    {
+      "uuid": "RINCON_B8E937DBF5EE01400",
+      "coordinator": {
+        "uuid": "RINCON_B8E937DBF5EE01400",
+        "state": {
+          "currentTrack": {
+            "artist": "",
+            "title": "",
+            "album": "",
+            "albumArtUri": "",
+            "duration": 0,
+            "uri": "",
+            "type": "track",
+            "stationName": ""
+          },
+          "nextTrack": {
+            "artist": "",
+            "title": "",
+            "album": "",
+            "albumArtUri": "",
+            "duration": 0,
+            "uri": ""
+          },
+          "volume": 16,
+          "mute": false,
+          "trackNo": 0,
+          "elapsedTime": 0,
+          "elapsedTimeFormatted": "00:00:00",
+          "playbackState": "STOPPED",
+          "playMode": {
+            "repeat": "none",
+            "shuffle": false,
+            "crossfade": false
+          }
+        },
+        "roomName": "Hydra",
+        "coordinator": "RINCON_B8E937DBF5EE01400",
+        "groupState": {
+          "volume": 16,
+          "mute": false
+        }
+      },
+      "members": [
+        {
+          "uuid": "RINCON_B8E937DBF5EE01400",
+          "state": {
+            "currentTrack": {
+              "artist": "",
+              "title": "",
+              "album": "",
+              "albumArtUri": "",
+              "duration": 0,
+              "uri": "",
+              "type": "track",
+              "stationName": ""
+            },
+            "nextTrack": {
+              "artist": "",
+              "title": "",
+              "album": "",
+              "albumArtUri": "",
+              "duration": 0,
+              "uri": ""
+            },
+            "volume": 16,
+            "mute": false,
+            "trackNo": 0,
+            "elapsedTime": 0,
+            "elapsedTimeFormatted": "00:00:00",
+            "playbackState": "STOPPED",
+            "playMode": {
+              "repeat": "none",
+              "shuffle": false,
+              "crossfade": false
+            }
+          },
+          "roomName": "Hydra",
+          "coordinator": "RINCON_B8E937DBF5EE01400",
+          "groupState": {
+            "volume": 16,
+            "mute": false
+          }
+        }
+      ]
+    },
+    {
+      "uuid": "RINCON_5CAAFD98129601400",
+      "coordinator": {
+        "uuid": "RINCON_5CAAFD98129601400",
+        "state": {
+          "currentTrack": {
+            "artist": "",
+            "title": "",
+            "album": "",
+            "albumArtUri": "",
+            "duration": 0,
+            "uri": "",
+            "type": "track",
+            "stationName": ""
+          },
+          "nextTrack": {
+            "artist": "",
+            "title": "",
+            "album": "",
+            "albumArtUri": "",
+            "duration": 0,
+            "uri": ""
+          },
+          "volume": 7,
+          "mute": false,
+          "trackNo": 0,
+          "elapsedTime": 0,
+          "elapsedTimeFormatted": "00:00:00",
+          "playbackState": "STOPPED",
+          "playMode": {
+            "repeat": "none",
+            "shuffle": false,
+            "crossfade": false
+          }
+        },
+        "roomName": "Marketing!",
+        "coordinator": "RINCON_5CAAFD98129601400",
+        "groupState": {
+          "volume": 7,
+          "mute": false
+        }
+      },
+      "members": [
+        {
+          "uuid": "RINCON_5CAAFD98129601400",
+          "state": {
+            "currentTrack": {
+              "artist": "",
+              "title": "",
+              "album": "",
+              "albumArtUri": "",
+              "duration": 0,
+              "uri": "",
+              "type": "track",
+              "stationName": ""
+            },
+            "nextTrack": {
+              "artist": "",
+              "title": "",
+              "album": "",
+              "albumArtUri": "",
+              "duration": 0,
+              "uri": ""
+            },
+            "volume": 7,
+            "mute": false,
+            "trackNo": 0,
+            "elapsedTime": 0,
+            "elapsedTimeFormatted": "00:00:00",
+            "playbackState": "STOPPED",
+            "playMode": {
+              "repeat": "none",
+              "shuffle": false,
+              "crossfade": false
+            }
+          },
+          "roomName": "Marketing!",
+          "coordinator": "RINCON_5CAAFD98129601400",
+          "groupState": {
+            "volume": 7,
+            "mute": false
+          }
+        }
+      ]
+    },
+    {
+      "uuid": "RINCON_5CAAFD21F20C01400",
+      "coordinator": {
+        "uuid": "RINCON_5CAAFD21F20C01400",
+        "state": {
+          "currentTrack": {
+            "artist": "Synapson",
+            "title": "All In You (feat. Anna Kova)",
+            "album": "Convergence (Deluxe Edition)",
+            "albumArtUri": "/getaa?s=1&u=x-sonos-http%3a_dklxfo-EJOBOVBQMDPQQeMGvcUD4DkClSXC4kD7uN7xkPd6ocMWc6rx5ru2YQ0R.mp3%3fsid%3d151%26flags%3d8192%26sn%3d3",
+            "duration": 257,
+            "uri": "x-sonos-http:_dklxfo-EJOBOVBQMDPQQeMGvcUD4DkClSXC4kD7uN7xkPd6ocMWc6rx5ru2YQ0R.mp3?sid=151&flags=8192&sn=3",
+            "type": "track",
+            "stationName": "",
+            "absoluteAlbumArtUri": "http://10.10.30.161:1400/getaa?s=1&u=x-sonos-http%3a_dklxfo-EJOBOVBQMDPQQeMGvcUD4DkClSXC4kD7uN7xkPd6ocMWc6rx5ru2YQ0R.mp3%3fsid%3d151%26flags%3d8192%26sn%3d3"
+          },
+          "nextTrack": {
+            "artist": "Talisco",
+            "title": "The Keys (Radio Edit)",
+            "album": "Run (Deluxe Version)",
+            "albumArtUri": "/getaa?s=1&u=x-sonos-http%3a_dklxfo-EJOgvU1ef7G4Jqks7oGauCK0zEf1d1jJSyvYgcJKKZ_-59zhkYOQWulQ.mp3%3fsid%3d151%26flags%3d8192%26sn%3d3",
+            "duration": 198,
+            "uri": "x-sonos-http:_dklxfo-EJOgvU1ef7G4Jqks7oGauCK0zEf1d1jJSyvYgcJKKZ_-59zhkYOQWulQ.mp3?sid=151&flags=8192&sn=3",
+            "absoluteAlbumArtUri": "http://10.10.30.161:1400/getaa?s=1&u=x-sonos-http%3a_dklxfo-EJOgvU1ef7G4Jqks7oGauCK0zEf1d1jJSyvYgcJKKZ_-59zhkYOQWulQ.mp3%3fsid%3d151%26flags%3d8192%26sn%3d3"
+          },
+          "volume": 12,
+          "mute": false,
+          "trackNo": 1,
+          "elapsedTime": 0,
+          "elapsedTimeFormatted": "00:00:00",
+          "playbackState": "STOPPED",
+          "playMode": {
+            "repeat": "none",
+            "shuffle": false,
+            "crossfade": false
+          }
+        },
+        "roomName": "Pa-Shohn=Passion",
+        "coordinator": "RINCON_5CAAFD21F20C01400",
+        "groupState": {
+          "volume": 12,
+          "mute": false
+        }
+      },
+      "members": [
+        {
+          "uuid": "RINCON_5CAAFD21F20C01400",
+          "state": {
+            "currentTrack": {
+              "artist": "Synapson",
+              "title": "All In You (feat. Anna Kova)",
+              "album": "Convergence (Deluxe Edition)",
+              "albumArtUri": "/getaa?s=1&u=x-sonos-http%3a_dklxfo-EJOBOVBQMDPQQeMGvcUD4DkClSXC4kD7uN7xkPd6ocMWc6rx5ru2YQ0R.mp3%3fsid%3d151%26flags%3d8192%26sn%3d3",
+              "duration": 257,
+              "uri": "x-sonos-http:_dklxfo-EJOBOVBQMDPQQeMGvcUD4DkClSXC4kD7uN7xkPd6ocMWc6rx5ru2YQ0R.mp3?sid=151&flags=8192&sn=3",
+              "type": "track",
+              "stationName": "",
+              "absoluteAlbumArtUri": "http://10.10.30.161:1400/getaa?s=1&u=x-sonos-http%3a_dklxfo-EJOBOVBQMDPQQeMGvcUD4DkClSXC4kD7uN7xkPd6ocMWc6rx5ru2YQ0R.mp3%3fsid%3d151%26flags%3d8192%26sn%3d3"
+            },
+            "nextTrack": {
+              "artist": "Talisco",
+              "title": "The Keys (Radio Edit)",
+              "album": "Run (Deluxe Version)",
+              "albumArtUri": "/getaa?s=1&u=x-sonos-http%3a_dklxfo-EJOgvU1ef7G4Jqks7oGauCK0zEf1d1jJSyvYgcJKKZ_-59zhkYOQWulQ.mp3%3fsid%3d151%26flags%3d8192%26sn%3d3",
+              "duration": 198,
+              "uri": "x-sonos-http:_dklxfo-EJOgvU1ef7G4Jqks7oGauCK0zEf1d1jJSyvYgcJKKZ_-59zhkYOQWulQ.mp3?sid=151&flags=8192&sn=3",
+              "absoluteAlbumArtUri": "http://10.10.30.161:1400/getaa?s=1&u=x-sonos-http%3a_dklxfo-EJOgvU1ef7G4Jqks7oGauCK0zEf1d1jJSyvYgcJKKZ_-59zhkYOQWulQ.mp3%3fsid%3d151%26flags%3d8192%26sn%3d3"
+            },
+            "volume": 12,
+            "mute": false,
+            "trackNo": 1,
+            "elapsedTime": 0,
+            "elapsedTimeFormatted": "00:00:00",
+            "playbackState": "STOPPED",
+            "playMode": {
+              "repeat": "none",
+              "shuffle": false,
+              "crossfade": false
+            }
+          },
+          "roomName": "Pa-Shohn=Passion",
+          "coordinator": "RINCON_5CAAFD21F20C01400",
+          "groupState": {
+            "volume": 12,
+            "mute": false
+          }
+        }
+      ]
+    },
+    {
+      "uuid": "RINCON_5CAAFD263C2A01400",
+      "coordinator": {
+        "uuid": "RINCON_5CAAFD263C2A01400",
+        "state": {
+          "currentTrack": {
+            "artist": "Travis Scott",
+            "title": "goosebumps",
+            "album": "Birds In The Trap Sing McKnight",
+            "albumArtUri": "/getaa?s=1&u=x-sonosprog-spotify%3aspotify%253atrack%253a6gBFPUFcJLzWGx4lenP6h2%3fsid%3d12%26flags%3d8224%26sn%3d10",
+            "duration": 243,
+            "uri": "x-sonosapi-radio:spotify%3aartistRadio%3a1anyVhU62p31KFi8MEzkbf?sid=12&flags=8300&sn=10",
+            "type": "radio",
+            "stationName": "Chance The Rapper Radio",
+            "absoluteAlbumArtUri": "http://10.10.30.210:1400/getaa?s=1&u=x-sonosprog-spotify%3aspotify%253atrack%253a6gBFPUFcJLzWGx4lenP6h2%3fsid%3d12%26flags%3d8224%26sn%3d10"
+          },
+          "nextTrack": {
+            "artist": "",
+            "title": "",
+            "album": "",
+            "albumArtUri": "",
+            "duration": 0,
+            "uri": ""
+          },
+          "volume": 21,
+          "mute": false,
+          "trackNo": 4,
+          "elapsedTime": 50,
+          "elapsedTimeFormatted": "00:00:50",
+          "playbackState": "PAUSED_PLAYBACK",
+          "playMode": {
+            "repeat": "none",
+            "shuffle": false,
+            "crossfade": false
+          }
+        },
+        "roomName": "Dandelion",
+        "coordinator": "RINCON_5CAAFD263C2A01400",
+        "groupState": {
+          "volume": 21,
+          "mute": false
+        }
+      },
+      "members": [
+        {
+          "uuid": "RINCON_5CAAFD263C2A01400",
+          "state": {
+            "currentTrack": {
+              "artist": "Travis Scott",
+              "title": "goosebumps",
+              "album": "Birds In The Trap Sing McKnight",
+              "albumArtUri": "/getaa?s=1&u=x-sonosprog-spotify%3aspotify%253atrack%253a6gBFPUFcJLzWGx4lenP6h2%3fsid%3d12%26flags%3d8224%26sn%3d10",
+              "duration": 243,
+              "uri": "x-sonosapi-radio:spotify%3aartistRadio%3a1anyVhU62p31KFi8MEzkbf?sid=12&flags=8300&sn=10",
+              "type": "radio",
+              "stationName": "Chance The Rapper Radio",
+              "absoluteAlbumArtUri": "http://10.10.30.210:1400/getaa?s=1&u=x-sonosprog-spotify%3aspotify%253atrack%253a6gBFPUFcJLzWGx4lenP6h2%3fsid%3d12%26flags%3d8224%26sn%3d10"
+            },
+            "nextTrack": {
+              "artist": "",
+              "title": "",
+              "album": "",
+              "albumArtUri": "",
+              "duration": 0,
+              "uri": ""
+            },
+            "volume": 21,
+            "mute": false,
+            "trackNo": 4,
+            "elapsedTime": 50,
+            "elapsedTimeFormatted": "00:00:50",
+            "playbackState": "PAUSED_PLAYBACK",
+            "playMode": {
+              "repeat": "none",
+              "shuffle": false,
+              "crossfade": false
+            }
+          },
+          "roomName": "Dandelion",
+          "coordinator": "RINCON_5CAAFD263C2A01400",
+          "groupState": {
+            "volume": 21,
+            "mute": false
+          }
+        }
+      ]
+    },
+    {
+      "uuid": "RINCON_949F3E1B9A7001400",
+      "coordinator": {
+        "uuid": "RINCON_949F3E1B9A7001400",
+        "state": {
+          "currentTrack": {
+            "artist": "Kygo",
+            "title": "Stay (Feat. Maty Noyes)",
+            "album": "Cloud Nine",
+            "albumArtUri": "http://mediaserver-cont-sv5-3-v4v6.pandora.com/images/public/int/3/5/8/0/617465690853_500W_500H.jpg",
+            "duration": 0,
+            "uri": "pndrradio:3509274133087994662?sn=7",
+            "type": "radio",
+            "stationName": "Thomas Jack Radio",
+            "absoluteAlbumArtUri": "http://mediaserver-cont-sv5-3-v4v6.pandora.com/images/public/int/3/5/8/0/617465690853_500W_500H.jpg"
+          },
+          "nextTrack": {
+            "artist": "Nora En Pure",
+            "title": "Come With Me (Radio Mix)",
+            "album": "Come With Me - EP",
+            "albumArtUri": "http://cont-1.p-cdn.com/images/public/int/4/0/3/8/7640130868304_500W_500H.jpg",
+            "duration": 0,
+            "uri": "pndrradio-http://audio-ch1-t1-2-v4v6.pandora.com/access/1999991297249224058?version=5&lid=707609382&token=3a3qdpyiWr2iETDDY6Tbl632wdj9dH92aKdZRNPvth28dwvOpD2WnV10s7kYJyFECFs9%2Bwqeb2a82bx5dk1fTL4EGjs08o%2FLuicLyROTuozmYcSrKknfaJL6Stmwpv%2F6OvQ8EpAuUEOXITBR0IzcawhSw01Vw7FBSEyljfynr8ju0gbVljHXn7GhkFt3HQJNrryKwwdpx2D74DS0IjOUPtNqipg05c0uSgnkPwYj%2FmyI8dodigryLx4Zorcyc3ReSpfnhr3TvT2RdL2Ev4hdDQ06QVPag5tzryZGGOjHzRLsN6gKM62LNW%2BwZJN0Vad5xkvoj9j13d8%3D&a=http%3a%2f%2fcont-1.p-cdn.com%2fimages%2fpublic%2fint%2f4%2f0%2f3%2f8%2f7640130868304_500W_500H.jpg&m=Pbu7opJVnz6hlfg9eQduRcTWf1sYC7bE1KueCxHJOj1s4c5SB6kyLfTckKgSOET2-840lNFkfGQ5xS1snAQWJgQ&f=1&r=0&g=-3.92&x=001254d7",
+            "absoluteAlbumArtUri": "http://cont-1.p-cdn.com/images/public/int/4/0/3/8/7640130868304_500W_500H.jpg"
+          },
+          "volume": 25,
+          "mute": false,
+          "trackNo": 4,
+          "elapsedTime": 86,
+          "elapsedTimeFormatted": "00:01:26",
+          "playbackState": "PLAYING",
+          "playMode": {
+            "repeat": "none",
+            "shuffle": false,
+            "crossfade": false
+          }
+        },
+        "roomName": "Zoolander v3 🔥",
+        "coordinator": "RINCON_949F3E1B9A7001400",
+        "groupState": {
+          "volume": 25,
+          "mute": false
+        }
+      },
+      "members": [
+        {
+          "uuid": "RINCON_949F3E1B9A7001400",
+          "state": {
+            "currentTrack": {
+              "artist": "Kygo",
+              "title": "Stay (Feat. Maty Noyes)",
+              "album": "Cloud Nine",
+              "albumArtUri": "http://mediaserver-cont-sv5-3-v4v6.pandora.com/images/public/int/3/5/8/0/617465690853_500W_500H.jpg",
+              "duration": 0,
+              "uri": "pndrradio:3509274133087994662?sn=7",
+              "type": "radio",
+              "stationName": "Thomas Jack Radio",
+              "absoluteAlbumArtUri": "http://mediaserver-cont-sv5-3-v4v6.pandora.com/images/public/int/3/5/8/0/617465690853_500W_500H.jpg"
+            },
+            "nextTrack": {
+              "artist": "Nora En Pure",
+              "title": "Come With Me (Radio Mix)",
+              "album": "Come With Me - EP",
+              "albumArtUri": "http://cont-1.p-cdn.com/images/public/int/4/0/3/8/7640130868304_500W_500H.jpg",
+              "duration": 0,
+              "uri": "pndrradio-http://audio-ch1-t1-2-v4v6.pandora.com/access/1999991297249224058?version=5&lid=707609382&token=3a3qdpyiWr2iETDDY6Tbl632wdj9dH92aKdZRNPvth28dwvOpD2WnV10s7kYJyFECFs9%2Bwqeb2a82bx5dk1fTL4EGjs08o%2FLuicLyROTuozmYcSrKknfaJL6Stmwpv%2F6OvQ8EpAuUEOXITBR0IzcawhSw01Vw7FBSEyljfynr8ju0gbVljHXn7GhkFt3HQJNrryKwwdpx2D74DS0IjOUPtNqipg05c0uSgnkPwYj%2FmyI8dodigryLx4Zorcyc3ReSpfnhr3TvT2RdL2Ev4hdDQ06QVPag5tzryZGGOjHzRLsN6gKM62LNW%2BwZJN0Vad5xkvoj9j13d8%3D&a=http%3a%2f%2fcont-1.p-cdn.com%2fimages%2fpublic%2fint%2f4%2f0%2f3%2f8%2f7640130868304_500W_500H.jpg&m=Pbu7opJVnz6hlfg9eQduRcTWf1sYC7bE1KueCxHJOj1s4c5SB6kyLfTckKgSOET2-840lNFkfGQ5xS1snAQWJgQ&f=1&r=0&g=-3.92&x=001254d7",
+              "absoluteAlbumArtUri": "http://cont-1.p-cdn.com/images/public/int/4/0/3/8/7640130868304_500W_500H.jpg"
+            },
+            "volume": 25,
+            "mute": false,
+            "trackNo": 4,
+            "elapsedTime": 86,
+            "elapsedTimeFormatted": "00:01:26",
+            "playbackState": "PLAYING",
+            "playMode": {
+              "repeat": "none",
+              "shuffle": false,
+              "crossfade": false
+            }
+          },
+          "roomName": "Zoolander v3 🔥",
+          "coordinator": "RINCON_949F3E1B9A7001400",
+          "groupState": {
+            "volume": 25,
+            "mute": false
+          }
+        }
+      ]
+    },
+    {
+      "uuid": "RINCON_5CAAFD2C621401400",
+      "coordinator": {
+        "uuid": "RINCON_5CAAFD2C621401400",
+        "state": {
+          "currentTrack": {
+            "artist": "Dire Straits",
+            "title": "Money For Nothing",
+            "album": "Brothers In Arms",
+            "albumArtUri": "/getaa?s=1&u=x-sonos-spotify%3aspotify%253atrack%253a5XNmEmlSnibC6oZQWGYaRo%3fsid%3d12%26flags%3d8224%26sn%3d39",
+            "duration": 506,
+            "uri": "x-sonos-spotify:spotify%3atrack%3a5XNmEmlSnibC6oZQWGYaRo?sid=12&flags=8224&sn=39",
+            "type": "track",
+            "stationName": "",
+            "absoluteAlbumArtUri": "http://10.10.30.227:1400/getaa?s=1&u=x-sonos-spotify%3aspotify%253atrack%253a5XNmEmlSnibC6oZQWGYaRo%3fsid%3d12%26flags%3d8224%26sn%3d39"
+          },
+          "nextTrack": {
+            "artist": "Queen",
+            "title": "The Show Must Go On",
+            "album": "Innuendo (Deluxe Remastered Version)",
+            "albumArtUri": "/getaa?s=1&u=x-sonos-spotify%3aspotify%253atrack%253a3lA3Pm88kZiD7F4X0cXeI4%3fsid%3d12%26flags%3d8224%26sn%3d39",
+            "duration": 277,
+            "uri": "x-sonos-spotify:spotify%3atrack%3a3lA3Pm88kZiD7F4X0cXeI4?sid=12&flags=8224&sn=39",
+            "absoluteAlbumArtUri": "http://10.10.30.227:1400/getaa?s=1&u=x-sonos-spotify%3aspotify%253atrack%253a3lA3Pm88kZiD7F4X0cXeI4%3fsid%3d12%26flags%3d8224%26sn%3d39"
+          },
+          "volume": 13,
+          "mute": false,
+          "trackNo": 34,
+          "elapsedTime": 351,
+          "elapsedTimeFormatted": "00:05:51",
+          "playbackState": "PLAYING",
+          "playMode": {
+            "repeat": "none",
+            "shuffle": false,
+            "crossfade": false
+          }
+        },
+        "roomName": "Rodeo",
+        "coordinator": "RINCON_5CAAFD2C621401400",
+        "groupState": {
+          "volume": 13,
+          "mute": false
+        }
+      },
+      "members": [
+        {
+          "uuid": "RINCON_5CAAFD2C621401400",
+          "state": {
+            "currentTrack": {
+              "artist": "Dire Straits",
+              "title": "Money For Nothing",
+              "album": "Brothers In Arms",
+              "albumArtUri": "/getaa?s=1&u=x-sonos-spotify%3aspotify%253atrack%253a5XNmEmlSnibC6oZQWGYaRo%3fsid%3d12%26flags%3d8224%26sn%3d39",
+              "duration": 506,
+              "uri": "x-sonos-spotify:spotify%3atrack%3a5XNmEmlSnibC6oZQWGYaRo?sid=12&flags=8224&sn=39",
+              "type": "track",
+              "stationName": "",
+              "absoluteAlbumArtUri": "http://10.10.30.227:1400/getaa?s=1&u=x-sonos-spotify%3aspotify%253atrack%253a5XNmEmlSnibC6oZQWGYaRo%3fsid%3d12%26flags%3d8224%26sn%3d39"
+            },
+            "nextTrack": {
+              "artist": "Queen",
+              "title": "The Show Must Go On",
+              "album": "Innuendo (Deluxe Remastered Version)",
+              "albumArtUri": "/getaa?s=1&u=x-sonos-spotify%3aspotify%253atrack%253a3lA3Pm88kZiD7F4X0cXeI4%3fsid%3d12%26flags%3d8224%26sn%3d39",
+              "duration": 277,
+              "uri": "x-sonos-spotify:spotify%3atrack%3a3lA3Pm88kZiD7F4X0cXeI4?sid=12&flags=8224&sn=39",
+              "absoluteAlbumArtUri": "http://10.10.30.227:1400/getaa?s=1&u=x-sonos-spotify%3aspotify%253atrack%253a3lA3Pm88kZiD7F4X0cXeI4%3fsid%3d12%26flags%3d8224%26sn%3d39"
+            },
+            "volume": 13,
+            "mute": false,
+            "trackNo": 34,
+            "elapsedTime": 351,
+            "elapsedTimeFormatted": "00:05:51",
+            "playbackState": "PLAYING",
+            "playMode": {
+              "repeat": "none",
+              "shuffle": false,
+              "crossfade": false
+            }
+          },
+          "roomName": "Rodeo",
+          "coordinator": "RINCON_5CAAFD2C621401400",
+          "groupState": {
+            "volume": 13,
+            "mute": false
+          }
+        }
+      ]
+    },
+    {
+      "uuid": "RINCON_B8E9375BB64E01400",
+      "coordinator": {
+        "uuid": "RINCON_B8E9375BB64E01400",
+        "state": {
+          "currentTrack": {
+            "artist": "Prince",
+            "title": "International Lover",
+            "album": "1999",
+            "albumArtUri": "/getaa?s=1&u=x-sonos-spotify%3aspotify%253atrack%253a7AFxCS5OHNvZgD2qceIc5Q%3fsid%3d12%26flags%3d8224%26sn%3d10",
+            "duration": 397,
+            "uri": "x-sonos-spotify:spotify%3atrack%3a7AFxCS5OHNvZgD2qceIc5Q?sid=12&flags=8224&sn=10",
+            "type": "track",
+            "stationName": "",
+            "absoluteAlbumArtUri": "http://10.10.30.177:1400/getaa?s=1&u=x-sonos-spotify%3aspotify%253atrack%253a7AFxCS5OHNvZgD2qceIc5Q%3fsid%3d12%26flags%3d8224%26sn%3d10"
+          },
+          "nextTrack": {
+            "artist": "Prince",
+            "title": "The Beautiful Ones",
+            "album": "Purple Rain",
+            "albumArtUri": "/getaa?s=1&u=x-sonos-spotify%3aspotify%253atrack%253a1BNtFSws7fjbn9aVBPA79j%3fsid%3d12%26flags%3d8224%26sn%3d10",
+            "duration": 313,
+            "uri": "x-sonos-spotify:spotify%3atrack%3a1BNtFSws7fjbn9aVBPA79j?sid=12&flags=8224&sn=10",
+            "absoluteAlbumArtUri": "http://10.10.30.177:1400/getaa?s=1&u=x-sonos-spotify%3aspotify%253atrack%253a1BNtFSws7fjbn9aVBPA79j%3fsid%3d12%26flags%3d8224%26sn%3d10"
+          },
+          "volume": 21,
+          "mute": false,
+          "trackNo": 43,
+          "elapsedTime": 130,
+          "elapsedTimeFormatted": "00:02:10",
+          "playbackState": "PLAYING",
+          "playMode": {
+            "repeat": "none",
+            "shuffle": true,
+            "crossfade": false
+          }
+        },
+        "roomName": "Cassava",
+        "coordinator": "RINCON_B8E9375BB64E01400",
+        "groupState": {
+          "volume": 21,
+          "mute": false
+        }
+      },
+      "members": [
+        {
+          "uuid": "RINCON_B8E9375BB64E01400",
+          "state": {
+            "currentTrack": {
+              "artist": "Prince",
+              "title": "International Lover",
+              "album": "1999",
+              "albumArtUri": "/getaa?s=1&u=x-sonos-spotify%3aspotify%253atrack%253a7AFxCS5OHNvZgD2qceIc5Q%3fsid%3d12%26flags%3d8224%26sn%3d10",
+              "duration": 397,
+              "uri": "x-sonos-spotify:spotify%3atrack%3a7AFxCS5OHNvZgD2qceIc5Q?sid=12&flags=8224&sn=10",
+              "type": "track",
+              "stationName": "",
+              "absoluteAlbumArtUri": "http://10.10.30.177:1400/getaa?s=1&u=x-sonos-spotify%3aspotify%253atrack%253a7AFxCS5OHNvZgD2qceIc5Q%3fsid%3d12%26flags%3d8224%26sn%3d10"
+            },
+            "nextTrack": {
+              "artist": "Prince",
+              "title": "The Beautiful Ones",
+              "album": "Purple Rain",
+              "albumArtUri": "/getaa?s=1&u=x-sonos-spotify%3aspotify%253atrack%253a1BNtFSws7fjbn9aVBPA79j%3fsid%3d12%26flags%3d8224%26sn%3d10",
+              "duration": 313,
+              "uri": "x-sonos-spotify:spotify%3atrack%3a1BNtFSws7fjbn9aVBPA79j?sid=12&flags=8224&sn=10",
+              "absoluteAlbumArtUri": "http://10.10.30.177:1400/getaa?s=1&u=x-sonos-spotify%3aspotify%253atrack%253a1BNtFSws7fjbn9aVBPA79j%3fsid%3d12%26flags%3d8224%26sn%3d10"
+            },
+            "volume": 21,
+            "mute": false,
+            "trackNo": 43,
+            "elapsedTime": 130,
+            "elapsedTimeFormatted": "00:02:10",
+            "playbackState": "PLAYING",
+            "playMode": {
+              "repeat": "none",
+              "shuffle": true,
+              "crossfade": false
+            }
+          },
+          "roomName": "Cassava",
+          "coordinator": "RINCON_B8E9375BB64E01400",
+          "groupState": {
+            "volume": 21,
+            "mute": false
+          }
+        }
+      ]
+    }
+  ]
+}

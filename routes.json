@@ -1,0 +1,8 @@
+{
+  "/api/": "/",
+  "/blog/:resource/:id/show": "/:resource/:id",
+  "/blog/:category": "/posts?category=:category",
+  "/:roomName/spotify/play/:trackId": "/playTrack",
+  "/:roomName/spotify/next/:trackId": "/nextTrack",
+  "/:roomName/spotify/queue/:trackId": "/queueTrack"
+}
