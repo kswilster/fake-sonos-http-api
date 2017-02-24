@@ -25,7 +25,7 @@
 	"/:roomName/sleep": "/zoneSleep",
 	"/:roomName/linein": "/zoneLinein",
 	"/:roomName/clip": "/zoneClip",
-	"/:roomName/join": "/zoneJoin",
+	"/:roomName/join/:otherRoomName": "/zoneJoin",
 	"/:roomName/leave": "/zoneLeave",
 	"/:roomName/sub": "/zoneSub",
 	"/:roomName/spotify/play/:trackId": "/zoneSpotifyPlay",
