@@ -2,22 +2,232 @@
   "lockvolumes": {
     "status": "success"
   },
-  "volume": {
+  "unlockvolumes": {
     "status": "success"
   },
-  "playTrack": {
-    "_comment": "TODO: replace this respons with appropriate playTrack response",
+  "pauseall": {
+    "status": "success"
+  },
+  "resumeall": {
+    "status": "success"
+  },
+  "sayall": {
+    "status": "success"
+  },
+  "clipall": {
+    "TODO": true
+  },
+  "zonePlay": {
+    "status": "success"
+  },
+  "zonePause": {
+    "status": "success"
+  },
+  "zonePlaypause": {
+    "status": "success"
+  },
+  "zoneVolume": {
+    "status": "success"
+  },
+  "zoneGroupVolume": {
+    "status": "success"
+  },
+  "zoneMute": {
+    "status": "success"
+  },
+  "zoneUnmute": {
+    "status": "success"
+  },
+  "zoneGroupMute": {
+    "status": "success"
+  },
+  "zoneTogglemute": {
+    "status": "success"
+  },
+  "zoneTrackseek": {
+    "status": "success"
+  },
+  "zoneTimeseek": {
+    "status": "success"
+  },
+  "zoneNext": {
+    "status": "success"
+  },
+  "zonePrevious": {
+    "status": "success"
+  },
+  "zoneState": {
+    "currentTrack": {
+      "artist": "Rihanna",
+      "title": "Higher",
+      "album": "ANTI",
+      "albumArtUri": "/getaa?s=1&u=x-sonos-spotify%3aspotify%253atrack%253a1XrrzhGLErbkiwH5v3xww9%3fsid%3d12%26flags%3d8224%26sn%3d10",
+      "duration": 120,
+      "uri": "x-sonos-spotify:spotify%3atrack%3a1XrrzhGLErbkiwH5v3xww9?sid=12&flags=8224&sn=10",
+      "type": "track",
+      "stationName": "",
+      "absoluteAlbumArtUri": "http://10.10.30.252:1400/getaa?s=1&u=x-sonos-spotify%3aspotify%253atrack%253a1XrrzhGLErbkiwH5v3xww9%3fsid%3d12%26flags%3d8224%26sn%3d10"
+    },
+    "nextTrack": {
+      "artist": "Rihanna",
+      "title": "Close To You",
+      "album": "ANTI",
+      "albumArtUri": "/getaa?s=1&u=x-sonos-spotify%3aspotify%253atrack%253a4gFxywaJejXWxo0NjlWzgg%3fsid%3d12%26flags%3d8224%26sn%3d10",
+      "duration": 223,
+      "uri": "x-sonos-spotify:spotify%3atrack%3a4gFxywaJejXWxo0NjlWzgg?sid=12&flags=8224&sn=10",
+      "absoluteAlbumArtUri": "http://10.10.30.252:1400/getaa?s=1&u=x-sonos-spotify%3aspotify%253atrack%253a4gFxywaJejXWxo0NjlWzgg%3fsid%3d12%26flags%3d8224%26sn%3d10"
+    },
+    "volume": 0,
+    "mute": false,
+    "trackNo": 12,
+    "elapsedTime": 45,
+    "elapsedTimeFormatted": "00:00:45",
+    "playbackState": "PLAYING",
+    "playMode": {
+      "repeat": "none",
+      "shuffle": false,
+      "crossfade": false
+    }
+  },
+  "zoneFavorite": {
+    "TODO": true
+  },
+  "zoneFavorites": {
+    "TODO": true
+  },
+  "zonePlaylist": {
+    "TODO": true
+  },
+  "zoneRepeat": {
+    "status": "success"
+  },
+  "zoneShuffle": {
+    "status": "success"
+  },
+  "zoneCrossfade": {
+    "status": "success"
+  },
+  "zoneSay": {
+    "status": "success"
+  },
+  "zoneQueue": [
+    {
+      "title": "Consideration",
+      "artist": "Rihanna",
+      "album": "ANTI",
+      "albumArtUri": "/getaa?s=1&u=x-sonos-spotify%3aspotify%253atrack%253a0WgBb7XgdtbUW0GlYel9mH%3fsid%3d12%26flags%3d8224%26sn%3d10"
+    },
+    {
+      "title": "James Joint",
+      "artist": "Rihanna",
+      "album": "ANTI",
+      "albumArtUri": "/getaa?s=1&u=x-sonos-spotify%3aspotify%253atrack%253a3cuGpP8vUSC1aq8tjD3J2c%3fsid%3d12%26flags%3d8224%26sn%3d10"
+    },
+    {
+      "title": "Kiss It Better",
+      "artist": "Rihanna",
+      "album": "ANTI",
+      "albumArtUri": "/getaa?s=1&u=x-sonos-spotify%3aspotify%253atrack%253a7bmqcI1HQwx1PWwYyZO0lg%3fsid%3d12%26flags%3d8224%26sn%3d10"
+    },
+    {
+      "title": "Work",
+      "artist": "Rihanna",
+      "album": "ANTI",
+      "albumArtUri": "/getaa?s=1&u=x-sonos-spotify%3aspotify%253atrack%253a32lmL4vQAAotg6MrJnhlQZ%3fsid%3d12%26flags%3d8224%26sn%3d10"
+    },
+    {
+      "title": "Desperado",
+      "artist": "Rihanna",
+      "album": "ANTI",
+      "albumArtUri": "/getaa?s=1&u=x-sonos-spotify%3aspotify%253atrack%253a6KFaHC9G178beAp7P0Vi5S%3fsid%3d12%26flags%3d8224%26sn%3d10"
+    },
+    {
+      "title": "Woo",
+      "artist": "Rihanna",
+      "album": "ANTI",
+      "albumArtUri": "/getaa?s=1&u=x-sonos-spotify%3aspotify%253atrack%253a2OvftP4F7VMMTdfyUx883s%3fsid%3d12%26flags%3d8224%26sn%3d10"
+    },
+    {
+      "title": "Needed Me",
+      "artist": "Rihanna",
+      "album": "ANTI",
+      "albumArtUri": "/getaa?s=1&u=x-sonos-spotify%3aspotify%253atrack%253a1Tt4sE4pXi57mTD1GCzsqm%3fsid%3d12%26flags%3d8224%26sn%3d10"
+    },
+    {
+      "title": "Yeah, I Said It",
+      "artist": "Rihanna",
+      "album": "ANTI",
+      "albumArtUri": "/getaa?s=1&u=x-sonos-spotify%3aspotify%253atrack%253a4kqxy0SvQ2N34nOJ9ggfMu%3fsid%3d12%26flags%3d8224%26sn%3d10"
+    },
+    {
+      "title": "Same Ol’ Mistakes",
+      "artist": "Rihanna",
+      "album": "ANTI",
+      "albumArtUri": "/getaa?s=1&u=x-sonos-spotify%3aspotify%253atrack%253a046irIGshCqu24AjmEWZtr%3fsid%3d12%26flags%3d8224%26sn%3d10"
+    },
+    {
+      "title": "Never Ending",
+      "artist": "Rihanna",
+      "album": "ANTI",
+      "albumArtUri": "/getaa?s=1&u=x-sonos-spotify%3aspotify%253atrack%253a6TTtJwtPEAI7yPHKR3XEKE%3fsid%3d12%26flags%3d8224%26sn%3d10"
+    },
+    {
+      "title": "Love On The Brain",
+      "artist": "Rihanna",
+      "album": "ANTI",
+      "albumArtUri": "/getaa?s=1&u=x-sonos-spotify%3aspotify%253atrack%253a2aksifNn5ph8igDOkPBA02%3fsid%3d12%26flags%3d8224%26sn%3d10"
+    },
+    {
+      "title": "Higher",
+      "artist": "Rihanna",
+      "album": "ANTI",
+      "albumArtUri": "/getaa?s=1&u=x-sonos-spotify%3aspotify%253atrack%253a1XrrzhGLErbkiwH5v3xww9%3fsid%3d12%26flags%3d8224%26sn%3d10"
+    },
+    {
+      "title": "Close To You",
+      "artist": "Rihanna",
+      "album": "ANTI",
+      "albumArtUri": "/getaa?s=1&u=x-sonos-spotify%3aspotify%253atrack%253a4gFxywaJejXWxo0NjlWzgg%3fsid%3d12%26flags%3d8224%26sn%3d10"
+    },
+    {
+      "title": "Young As This Night",
+      "artist": "Maya Vik",
+      "album": "Beyond the Basics",
+      "albumArtUri": "/getaa?s=1&u=x-sonos-spotify%3aspotify%253atrack%253a4LI1ykYGFCcXPWkrpcU7hn%3fsid%3d12%26flags%3d8224%26sn%3d10"
+    }
+  ],
+  "zoneClearqueue": {
+    "status": "success"
+  },
+  "zoneSleep": {
+    "TODO": true
+  },
+  "zoneLinein": {
+    "status": "success"
+  },
+  "zoneClip": {
+    "TODO": true
+  },
+  "zoneJoin": {
+    "status": "success"
+  },
+  "zoneLeave": {
+    "status": "success"
+  },
+  "zoneSub": {
+    "TODO": true
+  },
+  "zoneSpotifyPlay": {
     "firsttracknumberenqueued": "1",
     "numtracksadded": "1",
     "newqueuelength": "13"
   },
-  "nextTrack": {
+  "zoneSpotifyNext": {
     "firsttracknumberenqueued": "2",
     "numtracksadded": "1",
     "newqueuelength": "13"
   },
-  "queueTrack": {
-    "_comment": "not sure if track number should be 12 or 13, might have an off-by-one error here",
+  "zoneSpotifyQueue": {
     "firsttracknumberenqueued": "13",
     "numtracksadded": "1",
     "newqueuelength": "13"
@@ -636,5 +846,10 @@
         }
       ]
     }
-  ]
+  ],
+  "avTransportControlError": {
+    "status": "error",
+    "error": "Got status 500 when invoking /MediaRenderer/AVTransport/Control",
+    "stack": "Error\n    at Object.invoke (/Users/kwilliams/dev/node-sonos-http-api/node_modules/sonos-discovery/lib/helpers/soap.js:95:10)\n    at Player.setAVTransport (/Users/kwilliams/dev/node-sonos-http-api/node_modules/sonos-discovery/lib/models/Player.js:655:15)\n    at Object.linein (/Users/kwilliams/dev/node-sonos-http-api/lib/actions/linein.js:17:29)\n    at handleAction (/Users/kwilliams/dev/node-sonos-http-api/lib/sonos-http-api.js:111:35)\n    at HttpAPI.requestHandler (/Users/kwilliams/dev/node-sonos-http-api/lib/sonos-http-api.js:88:5)\n    at /Users/kwilliams/dev/node-sonos-http-api/server.js:50:13\n    at Server.finish (/Users/kwilliams/dev/node-sonos-http-api/node_modules/node-static/lib/node-static.js:111:13)\n    at finish (/Users/kwilliams/dev/node-sonos-http-api/node_modules/node-static/lib/node-static.js:170:14)\n    at /Users/kwilliams/dev/node-sonos-http-api/node_modules/node-static/lib/node-static.js:144:17\n    at FSReqWrap.oncomplete (fs.js:123:15)"
+  }
 }
