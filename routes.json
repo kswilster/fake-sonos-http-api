@@ -28,7 +28,8 @@
 	"/:roomName/join/:otherRoomName": "/zoneJoin",
 	"/:roomName/leave": "/zoneLeave",
 	"/:roomName/sub": "/zoneSub",
-	"/:roomName/spotify/play/:trackId": "/zoneSpotifyPlay",
+	"/:roomName/spotify/now/:trackId": "/zoneSpotifyNow",
 	"/:roomName/spotify/next/:trackId": "/zoneSpotifyNext",
-	"/:roomName/spotify/queue/:trackId": "/zoneSpotifyQueue"
+	"/:roomName/spotify/queue/:trackId": "/zoneSpotifyQueue",
+	"/:roomName/setavtransporturi/:uri": "/zoneSetavtransporturi"
 }
